@@ -1,0 +1,85 @@
+C:\Users\blidi\AppData\Local\Temporary Projects\Projet Framework\bin\Debug\Projet Framework.exe.config
+C:\Users\blidi\AppData\Local\Temporary Projects\Projet Framework\bin\Debug\Projet Framework.exe
+C:\Users\blidi\AppData\Local\Temporary Projects\Projet Framework\bin\Debug\Projet Framework.pdb
+C:\Users\blidi\AppData\Local\Temporary Projects\Projet Framework\obj\Debug\Projet Framework.csprojAssemblyReference.cache
+C:\Users\blidi\AppData\Local\Temporary Projects\Projet Framework\obj\Debug\Projet_Framework.Form1.resources
+C:\Users\blidi\AppData\Local\Temporary Projects\Projet Framework\obj\Debug\Projet_Framework.Properties.Resources.resources
+C:\Users\blidi\AppData\Local\Temporary Projects\Projet Framework\obj\Debug\Projet Framework.csproj.GenerateResource.cache
+C:\Users\blidi\AppData\Local\Temporary Projects\Projet Framework\obj\Debug\Projet Framework.csproj.CoreCompileInputs.cache
+C:\Users\blidi\AppData\Local\Temporary Projects\Projet Framework\obj\Debug\Projet Framework.exe
+C:\Users\blidi\AppData\Local\Temporary Projects\Projet Framework\obj\Debug\Projet Framework.pdb
+D:\EDUC\S4\FRAMEWORK.NET\PROJET\Projet Framework\Projet Framework\bin\Debug\Projet Framework.exe.config
+D:\EDUC\S4\FRAMEWORK.NET\PROJET\Projet Framework\Projet Framework\bin\Debug\Projet Framework.exe
+D:\EDUC\S4\FRAMEWORK.NET\PROJET\Projet Framework\Projet Framework\bin\Debug\Projet Framework.pdb
+D:\EDUC\S4\FRAMEWORK.NET\PROJET\Projet Framework\Projet Framework\obj\Debug\Projet Framework.csprojAssemblyReference.cache
+D:\EDUC\S4\FRAMEWORK.NET\PROJET\Projet Framework\Projet Framework\obj\Debug\Projet_Framework.Form2.resources
+D:\EDUC\S4\FRAMEWORK.NET\PROJET\Projet Framework\Projet Framework\obj\Debug\Projet_Framework.Properties.Resources.resources
+D:\EDUC\S4\FRAMEWORK.NET\PROJET\Projet Framework\Projet Framework\obj\Debug\Projet Framework.csproj.GenerateResource.cache
+D:\EDUC\S4\FRAMEWORK.NET\PROJET\Projet Framework\Projet Framework\obj\Debug\Projet Framework.csproj.CoreCompileInputs.cache
+D:\EDUC\S4\FRAMEWORK.NET\PROJET\Projet Framework\Projet Framework\obj\Debug\Projet Framework.exe
+D:\EDUC\S4\FRAMEWORK.NET\PROJET\Projet Framework\Projet Framework\obj\Debug\Projet Framework.pdb
+D:\EDUC\S4\FRAMEWORK.NET\PROJET\Projet Framework\Projet Framework\obj\Debug\Projet_Framework.Form3.resources
+D:\EDUC\S4\FRAMEWORK.NET\PROJET\Projet Framework\Projet Framework\obj\Debug\Projet_Framework.Form4.resources
+D:\EDUC\S4\FRAMEWORK.NET\PROJET\Projet Framework\Projet Framework\obj\Debug\Projet_Framework.Form5.resources
+D:\EDUC\S4\FRAMEWORK.NET\PROJET\Projet Framework\Projet Framework\obj\Debug\Projet_Framework.Form6.resources
+D:\EDUC\S4\FRAMEWORK.NET\PROJET\Projet Framework\Projet Framework\obj\Debug\Projet_Framework.Form7.resources
+D:\EDUC\S4\FRAMEWORK.NET\PROJET\Projet Framework\Projet Framework\obj\Debug\Projet_Framework.Form8.resources
+D:\EDUC\S4\FRAMEWORK.NET\PROJET\Projet Framework\Projet Framework\obj\Debug\Projet_Framework.Form1.resources
+C:\Users\21624\EDUC\YEAR 2\SEMESTRE 2\FRAMEWORK.NET\Projet\Projet Framework\Projet Framework\bin\Debug\Projet Framework.exe.config
+C:\Users\21624\EDUC\YEAR 2\SEMESTRE 2\FRAMEWORK.NET\Projet\Projet Framework\Projet Framework\bin\Debug\Projet Framework.exe
+C:\Users\21624\EDUC\YEAR 2\SEMESTRE 2\FRAMEWORK.NET\Projet\Projet Framework\Projet Framework\bin\Debug\Projet Framework.pdb
+C:\Users\21624\EDUC\YEAR 2\SEMESTRE 2\FRAMEWORK.NET\Projet\Projet Framework\Projet Framework\obj\Debug\Projet Framework.csprojAssemblyReference.cache
+C:\Users\21624\EDUC\YEAR 2\SEMESTRE 2\FRAMEWORK.NET\Projet\Projet Framework\Projet Framework\obj\Debug\Projet_Framework.Properties.Resources.resources
+C:\Users\21624\EDUC\YEAR 2\SEMESTRE 2\FRAMEWORK.NET\Projet\Projet Framework\Projet Framework\obj\Debug\Projet Framework.csproj.GenerateResource.cache
+C:\Users\21624\EDUC\YEAR 2\SEMESTRE 2\FRAMEWORK.NET\Projet\Projet Framework\Projet Framework\obj\Debug\Projet Framework.csproj.CoreCompileInputs.cache
+C:\Users\21624\EDUC\YEAR 2\SEMESTRE 2\FRAMEWORK.NET\Projet\Projet Framework\Projet Framework\obj\Debug\Projet Framework.exe
+C:\Users\21624\EDUC\YEAR 2\SEMESTRE 2\FRAMEWORK.NET\Projet\Projet Framework\Projet Framework\obj\Debug\Projet Framework.pdb
+C:\Users\21624\EDUC\YEAR 2\SEMESTRE 2\FRAMEWORK.NET\Projet\Projet Framework\Projet Framework\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\21624\EDUC\YEAR 2\SEMESTRE 2\FRAMEWORK.NET\Projet\Projet Framework\Projet Framework\bin\Debug\itextsharp.dll
+C:\Users\21624\EDUC\YEAR 2\SEMESTRE 2\FRAMEWORK.NET\Projet\Projet Framework\Projet Framework\bin\Debug\itextsharp.xml
+C:\Users\21624\EDUC\YEAR 2\SEMESTRE 2\FRAMEWORK.NET\Projet\Projet Framework\Projet Framework\obj\Debug\Projet Framework.csproj.CopyComplete
+C:\Users\21624\EDUC\YEAR 2\SEMESTRE 2\FRAMEWORK.NET\Projet\Projet Framework\Projet Framework\obj\Debug\Projet_Framework.chercherBulletin.resources
+C:\Users\21624\EDUC\YEAR 2\SEMESTRE 2\FRAMEWORK.NET\Projet\Projet Framework\Projet Framework\obj\Debug\Projet_Framework.loginForm.resources
+C:\Users\21624\EDUC\YEAR 2\SEMESTRE 2\FRAMEWORK.NET\Projet\Projet Framework\Projet Framework\obj\Debug\Projet_Framework.infosEmploye.resources
+C:\Users\21624\EDUC\YEAR 2\SEMESTRE 2\FRAMEWORK.NET\Projet\Projet Framework\Projet Framework\obj\Debug\Projet_Framework.espaceAdmin.resources
+C:\Users\21624\EDUC\YEAR 2\SEMESTRE 2\FRAMEWORK.NET\Projet\Projet Framework\Projet Framework\obj\Debug\Projet_Framework.gestionEmploye.resources
+C:\Users\21624\EDUC\YEAR 2\SEMESTRE 2\FRAMEWORK.NET\Projet\Projet Framework\Projet Framework\obj\Debug\Projet_Framework.ajouterEmploye.resources
+C:\Users\21624\EDUC\YEAR 2\SEMESTRE 2\FRAMEWORK.NET\Projet\Projet Framework\Projet Framework\obj\Debug\Projet_Framework.modifierEmploye.resources
+C:\Users\21624\EDUC\YEAR 2\SEMESTRE 2\FRAMEWORK.NET\Projet\Projet Framework\Projet Framework\obj\Debug\Projet_Framework.consulterBulletin.resources
+C:\Users\21624\EDUC\YEAR 2\SEMESTRE 2\FRAMEWORK.NET\Projet\Projet Framework\Projet Framework\obj\Debug\Projet_Framework.calculerSR.resources
+C:\Users\21624\EDUC\YEAR 2\SEMESTRE 2\FRAMEWORK.NET\Projet\Projet Framework\Projet Framework\obj\Debug\Projet_Framework.espaceAgent.resources
+C:\Users\21624\EDUC\YEAR 2\SEMESTRE 2\FRAMEWORK.NET\Projet\Projet Framework\Projet Framework\obj\Debug\Projet_Framework.saisirBulletin.resources
+C:\Users\21624\EDUC\YEAR 2\SEMESTRE 2\FRAMEWORK.NET\Projet\Projet Framework\Projet Framework\obj\Debug\Projet_Framework.supprimerBulletin.resources
+C:\Users\21624\EDUC\YEAR 2\SEMESTRE 2\FRAMEWORK.NET\Projet\Projet Framework\Projet Framework\obj\Debug\Projet_Framework.espaceEmploye.resources
+C:\Users\21624\EDUC\YEAR 2\SEMESTRE 2\FRAMEWORK.NET\Projet\Projet Framework\Projet Framework\obj\Debug\Projet_Framework.modifierBulletin1.resources
+C:\Users\21624\EDUC\YEAR 2\SEMESTRE 2\FRAMEWORK.NET\Projet\Projet Framework\Projet Framework\obj\Debug\Projet_Framework.modifierBulletin2.resources
+C:\Users\21624\EDUC\YEAR 2\SEMESTRE 2\FRAMEWORK.NET\Projet\Projet Framework\Projet Framework\obj\Debug\Projet_Framework.rapportBulletin.resources
+G:\Projet C# - 28-04\Projet Framework\Projet Framework\bin\Debug\Projet Framework.exe.config
+G:\Projet C# - 28-04\Projet Framework\Projet Framework\bin\Debug\Projet Framework.exe
+G:\Projet C# - 28-04\Projet Framework\Projet Framework\bin\Debug\Projet Framework.pdb
+G:\Projet C# - 28-04\Projet Framework\Projet Framework\bin\Debug\BouncyCastle.Crypto.dll
+G:\Projet C# - 28-04\Projet Framework\Projet Framework\bin\Debug\itextsharp.dll
+G:\Projet C# - 28-04\Projet Framework\Projet Framework\bin\Debug\itextsharp.xml
+G:\Projet C# - 28-04\Projet Framework\Projet Framework\obj\Debug\Projet Framework.csprojAssemblyReference.cache
+G:\Projet C# - 28-04\Projet Framework\Projet Framework\obj\Debug\Projet_Framework.chercherBulletin.resources
+G:\Projet C# - 28-04\Projet Framework\Projet Framework\obj\Debug\Projet_Framework.espaceEmploye.resources
+G:\Projet C# - 28-04\Projet Framework\Projet Framework\obj\Debug\Projet_Framework.loginForm.resources
+G:\Projet C# - 28-04\Projet Framework\Projet Framework\obj\Debug\Projet_Framework.infosEmploye.resources
+G:\Projet C# - 28-04\Projet Framework\Projet Framework\obj\Debug\Projet_Framework.espaceAdmin.resources
+G:\Projet C# - 28-04\Projet Framework\Projet Framework\obj\Debug\Projet_Framework.gestionEmploye.resources
+G:\Projet C# - 28-04\Projet Framework\Projet Framework\obj\Debug\Projet_Framework.ajouterEmploye.resources
+G:\Projet C# - 28-04\Projet Framework\Projet Framework\obj\Debug\Projet_Framework.modifierBulletin1.resources
+G:\Projet C# - 28-04\Projet Framework\Projet Framework\obj\Debug\Projet_Framework.modifierBulletin2.resources
+G:\Projet C# - 28-04\Projet Framework\Projet Framework\obj\Debug\Projet_Framework.modifierEmploye.resources
+G:\Projet C# - 28-04\Projet Framework\Projet Framework\obj\Debug\Projet_Framework.consulterBulletin.resources
+G:\Projet C# - 28-04\Projet Framework\Projet Framework\obj\Debug\Projet_Framework.calculerSR.resources
+G:\Projet C# - 28-04\Projet Framework\Projet Framework\obj\Debug\Projet_Framework.espaceAgent.resources
+G:\Projet C# - 28-04\Projet Framework\Projet Framework\obj\Debug\Projet_Framework.Properties.Resources.resources
+G:\Projet C# - 28-04\Projet Framework\Projet Framework\obj\Debug\Projet_Framework.rapportBulletin.resources
+G:\Projet C# - 28-04\Projet Framework\Projet Framework\obj\Debug\Projet_Framework.saisirBulletin.resources
+G:\Projet C# - 28-04\Projet Framework\Projet Framework\obj\Debug\Projet_Framework.supprimerBulletin.resources
+G:\Projet C# - 28-04\Projet Framework\Projet Framework\obj\Debug\Projet Framework.csproj.GenerateResource.cache
+G:\Projet C# - 28-04\Projet Framework\Projet Framework\obj\Debug\Projet Framework.csproj.CoreCompileInputs.cache
+G:\Projet C# - 28-04\Projet Framework\Projet Framework\obj\Debug\Projet Framework.csproj.CopyComplete
+G:\Projet C# - 28-04\Projet Framework\Projet Framework\obj\Debug\Projet Framework.exe
+G:\Projet C# - 28-04\Projet Framework\Projet Framework\obj\Debug\Projet Framework.pdb

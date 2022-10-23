@@ -1,0 +1,225 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{159CD948-34AF-44C6-B671-623AC52EE06D}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Projet_Framework</RootNamespace>
+    <AssemblyName>Projet Framework</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="BouncyCastle.Crypto, Version=1.8.9.0, Culture=neutral, PublicKeyToken=0e99375e54769942">
+      <HintPath>..\packages\BouncyCastle.1.8.9\lib\BouncyCastle.Crypto.dll</HintPath>
+    </Reference>
+    <Reference Include="itextsharp, Version=5.5.13.3, Culture=neutral, PublicKeyToken=8354ae6d2174ddca, processorArchitecture=MSIL">
+      <HintPath>..\packages\iTextSharp.5.5.13.3\lib\itextsharp.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="chercherBulletin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="chercherBulletin.Designer.cs">
+      <DependentUpon>chercherBulletin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="loginForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="loginForm.Designer.cs">
+      <DependentUpon>loginForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="infosEmploye.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="infosEmploye.Designer.cs">
+      <DependentUpon>infosEmploye.cs</DependentUpon>
+    </Compile>
+    <Compile Include="espaceAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="espaceAdmin.Designer.cs">
+      <DependentUpon>espaceAdmin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="gestionEmploye.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="gestionEmploye.Designer.cs">
+      <DependentUpon>gestionEmploye.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ajouterEmploye.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ajouterEmploye.Designer.cs">
+      <DependentUpon>ajouterEmploye.cs</DependentUpon>
+    </Compile>
+    <Compile Include="modifierBulletin1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="modifierBulletin1.Designer.cs">
+      <DependentUpon>modifierBulletin1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="modifierBulletin2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="modifierBulletin2.Designer.cs">
+      <DependentUpon>modifierBulletin2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="modifierEmploye.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="modifierEmploye.Designer.cs">
+      <DependentUpon>modifierEmploye.cs</DependentUpon>
+    </Compile>
+    <Compile Include="consulterBulletin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="consulterBulletin.Designer.cs">
+      <DependentUpon>consulterBulletin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="calculerSR.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="calculerSR.Designer.cs">
+      <DependentUpon>calculerSR.cs</DependentUpon>
+    </Compile>
+    <Compile Include="espaceAgent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="espaceAgent.Designer.cs">
+      <DependentUpon>espaceAgent.cs</DependentUpon>
+    </Compile>
+    <Compile Include="espaceEmploye.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="espaceEmploye.Designer.cs">
+      <DependentUpon>espaceEmploye.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="rapportBulletin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="rapportBulletin.Designer.cs">
+      <DependentUpon>rapportBulletin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="saisirBulletin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="saisirBulletin.Designer.cs">
+      <DependentUpon>saisirBulletin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="supprimerBulletin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="supprimerBulletin.Designer.cs">
+      <DependentUpon>supprimerBulletin.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="chercherBulletin.resx">
+      <DependentUpon>chercherBulletin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="espaceEmploye.resx">
+      <DependentUpon>espaceEmploye.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="loginForm.resx">
+      <DependentUpon>loginForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="infosEmploye.resx">
+      <DependentUpon>infosEmploye.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="espaceAdmin.resx">
+      <DependentUpon>espaceAdmin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="gestionEmploye.resx">
+      <DependentUpon>gestionEmploye.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ajouterEmploye.resx">
+      <DependentUpon>ajouterEmploye.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="modifierBulletin1.resx">
+      <DependentUpon>modifierBulletin1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="modifierBulletin2.resx">
+      <DependentUpon>modifierBulletin2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="modifierEmploye.resx">
+      <DependentUpon>modifierEmploye.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="consulterBulletin.resx">
+      <DependentUpon>consulterBulletin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="calculerSR.resx">
+      <DependentUpon>calculerSR.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="espaceAgent.resx">
+      <DependentUpon>espaceAgent.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="rapportBulletin.resx">
+      <DependentUpon>rapportBulletin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="saisirBulletin.resx">
+      <DependentUpon>saisirBulletin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="supprimerBulletin.resx">
+      <DependentUpon>supprimerBulletin.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
